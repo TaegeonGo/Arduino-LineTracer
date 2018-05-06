@@ -19,6 +19,7 @@ List of parts
 
 
 Thank you.
+
 KOR
 ------
 안녕하세요 고태건입니다.
