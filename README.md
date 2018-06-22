@@ -1,4 +1,4 @@
-CODEGATE 2017 Kid school (Line tracer)
+CODEGATE 2017 KIDS SCHOOL (Line tracer)
 ================
 ENG
 ------
